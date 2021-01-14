@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html>
+  <header><head>
+    <title>About Me</title>
+  </head></header>
+  <main><body>
+    <h1>About Me</h1>
+    <img
+      src="../opdracht 3/IMG_20160117_073630 copy.jpg"
+      alt="me"
+      width="200"
+      height="250"
+    />
+    <h3>Hier gaan wij verder in op mezelf.</h3>
+    <h3>mijn naam staat al vermeld, op de sites die ik aan het bouwen ben.</h3>
+    <h3>
+      zelf ben ik 29 jaar oud, ik kom uit Amsterdam, en ben momenteel woonachtig
+      in middelburg.
+    </h3>
+    <h4>
+      op de main page heb ik een lekkere recept staan. een van mijn favorites of
+      all time.
+    </h4></main>
+  
+    <footer><a href="../opdracht 3/home.html">terug naar de Hoofd Pagina</a></footer>
+  </body>
+</html>
